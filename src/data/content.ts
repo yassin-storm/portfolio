@@ -76,7 +76,7 @@ export const projectsData: Project[] = [
     ],
     technologies: ['React 18', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS', 'JWT', 'REST API'],
     status: 'completed',
-    image: '/images/yassin-agency.png',
+    image: '/images/projects/yassin-agency.png',
     githubUrl: 'https://github.com/yassinStrom',
   },
   {
@@ -125,7 +125,7 @@ export const projectsData: Project[] = [
     ],
     technologies: ['Node.js', 'Express.js', 'MongoDB', 'JWT', 'REST APIs', 'Unit Testing', 'CI/CD'],
     status: 'completed',
-    image: '/images/programming.png',
+    image: '/images/projects/star-maker.png',
   },
   {
     id: 'ecommerce-engine',
@@ -173,7 +173,7 @@ export const projectsData: Project[] = [
     ],
     technologies: ['Node.js', 'Express.js', 'MongoDB', 'Payment Gateways', 'Webhooks', 'Bcrypt', 'Jest'],
     status: 'completed',
-    image: '/images/programming.png',
+    image: '/images/projects/ecommerce-engine.png',
   },
   {
     id: 'afaq-platform',
@@ -217,7 +217,7 @@ export const projectsData: Project[] = [
     ],
     technologies: ['React', 'Node.js', 'Express', 'MongoDB', 'REST APIs', 'Render Cloud'],
     status: 'completed',
-    image: '/images/programming.png',
+    image: '/images/projects/afaq-platform.png',
   },
 ];
 
